@@ -1,1 +1,1 @@
-# -SAP-1-Architecture
+# SAP-1-Architecture
